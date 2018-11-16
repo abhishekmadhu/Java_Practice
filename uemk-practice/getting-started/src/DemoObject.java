@@ -1,5 +1,3 @@
-package com.company;
-
 /*
 * To be used as the object for all other experiments
 */
