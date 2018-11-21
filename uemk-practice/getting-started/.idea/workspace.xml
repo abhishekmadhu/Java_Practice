@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67c595de-371c-493b-8ec2-de06a8f02cdd" name="Default Changelist" comment="" />
+    <list default="true" id="67c595de-371c-493b-8ec2-de06a8f02cdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TwoDMatrixMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,75 +53,45 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.77" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1259" />
+          <entry key="java" value="2309" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1259" />
+          <entry key="JAVA" value="2309" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReflectionExperiments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/TwoDMatrixMultiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#875#876#0" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -154,14 +127,15 @@
         <option value="$PROJECT_DIR$/src/Person.java" />
         <option value="$PROJECT_DIR$/src/VarArgs.java" />
         <option value="$PROJECT_DIR$/src/ReflectionExperiments.java" />
+        <option value="$PROJECT_DIR$/src/TwoDMatrixMultiplication.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="201" />
-    <option name="y" value="127" />
-    <option name="width" value="1452" />
-    <option name="height" value="837" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="247" />
+    <option name="y" value="81" />
+    <option name="width" value="1453" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -169,6 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,18 +159,22 @@
             </path>
             <path>
               <item name="getting-started" type="b2602c69:ProjectViewProjectNode" />
+              <item name="getting-started" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoDMatrixMultiplication.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="getting-started" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542363940636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542789564836" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
@@ -210,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflectionExperiments">
+  <component name="RunManager" selected="Application.TwoDMatrixMultiplication">
     <configuration name="ArrayExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExperiments" />
       <module name="getting-started" />
@@ -237,18 +217,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ReflectionExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReflectionExperiments" />
       <module name="getting-started" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReflectionExperiments" />
+    <configuration name="TwoDMatrixMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDMatrixMultiplication" />
       <module name="getting-started" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -262,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArrayExperiments" />
       <item itemvalue="Application.ReflectionExperiments" />
       <item itemvalue="Application.ArrayListExperiments" />
       <item itemvalue="Application.VarArgs" />
+      <item itemvalue="Application.TwoDMatrixMultiplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDMatrixMultiplication" />
         <item itemvalue="Application.ReflectionExperiments" />
         <item itemvalue="Application.VarArgs" />
         <item itemvalue="Application.ArrayListExperiments" />
         <item itemvalue="Application.ArrayExperiments" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -309,9 +286,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="102" width="1161" height="669" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24104477" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16601562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -321,15 +299,15 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35455862" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35452324" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55307263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32707775" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32640588" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -377,13 +355,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="added VCS" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/getting-started/com/company/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/getting-started/com/company/Main.class" />
     <entry file="jar://C:/Libraries/jdk-11/lib/src.zip!/java.sql/java/sql/Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
@@ -415,13 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayListExperiments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VarArgs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -429,39 +394,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReflectionExperiments.java">
+    <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="744">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/ReflectionExperiments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListExperiments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoDMatrixMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
         </state>
       </provider>
     </entry>
