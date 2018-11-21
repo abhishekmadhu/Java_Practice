@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67c595de-371c-493b-8ec2-de06a8f02cdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceAttempt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoDMatrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoDMatrixAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/getting-started/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/getting-started/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/getting-started/TwoDMatrixMultiplication.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,26 +64,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2318" />
+          <entry key="java" value="2851" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2318" />
+          <entry key="JAVA" value="2851" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="11" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -89,10 +94,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TwoDMatrixAddition.java">
+        <entry file="file://$PROJECT_DIR$/src/InputTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            <state relative-caret-position="192">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,6 +139,8 @@
         <option value="$PROJECT_DIR$/src/ReflectionExperiments.java" />
         <option value="$PROJECT_DIR$/src/TwoDMatrixMultiplication.java" />
         <option value="$PROJECT_DIR$/src/TwoDMatrixAddition.java" />
+        <option value="$PROJECT_DIR$/src/InputTest.java" />
+        <option value="$PROJECT_DIR$/src/InterfaceAttempt.java" />
       </list>
     </option>
   </component>
@@ -171,7 +181,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542790680842" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542794860371" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
@@ -187,29 +197,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoDMatrixMultiplication">
-    <configuration name="ArrayExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExperiments" />
+  <component name="RunManager" selected="Application.InterfaceAttempt">
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputTest" />
       <module name="getting-started" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListExperiments" />
+    <configuration name="InterfaceAttempt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceAttempt" />
       <module name="getting-started" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -236,19 +234,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayExperiments" />
       <item itemvalue="Application.ReflectionExperiments" />
-      <item itemvalue="Application.ArrayListExperiments" />
       <item itemvalue="Application.VarArgs" />
       <item itemvalue="Application.TwoDMatrixMultiplication" />
+      <item itemvalue="Application.InputTest" />
+      <item itemvalue="Application.InterfaceAttempt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceAttempt" />
+        <item itemvalue="Application.InputTest" />
         <item itemvalue="Application.TwoDMatrixMultiplication" />
         <item itemvalue="Application.ReflectionExperiments" />
         <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.ArrayListExperiments" />
-        <item itemvalue="Application.ArrayExperiments" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542789693140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added matrix addition">
+      <created>1542790693871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542790693871</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -303,7 +308,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35452324" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3535188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.55307263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,8 +432,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoDMatrixAddition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="443">
+          <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/getting-started/vehicle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfaceAttempt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
