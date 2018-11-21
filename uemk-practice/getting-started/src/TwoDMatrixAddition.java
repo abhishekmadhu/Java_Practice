@@ -47,7 +47,7 @@ class Matrix{
 }
 
 
-public class TwoDMatrixMultiplication {
+public class TwoDMatrixAddition {
     public static void main(String args[]){
         int r1, c1, r2, c2, i, j;
         Scanner sc = new Scanner(System.in);
